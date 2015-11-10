@@ -1,5 +1,5 @@
 # MongoDB - Aula 01 - Exercício
-autor: Erni Augusto Fonseca Souza (Systema_On)
+autor: Erni Augusto Fonseca Souza (Sistema_On)
 
 ## Importando os restaurantes
 Inspiron@Inspiron-PC MINGW64 ~/Desktop
