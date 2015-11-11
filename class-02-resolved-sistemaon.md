@@ -1,4 +1,4 @@
-# MongoDB - Aula 01 - Exercício
+# MongoDB - Aula 02 - Exercício
 autor: Erni Augusto Fonseca Souza (Sistema_On)
 
 ## Crie uma database chamada be-mean-pokemons
